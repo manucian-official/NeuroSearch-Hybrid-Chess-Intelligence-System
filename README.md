@@ -131,7 +131,7 @@ NeuroSearch/
 <h3>1. Clone Repository</h3>
 
 <pre>
-git clone https://github.com/your-username/neurosearch.git
+[git clone https://github.com/your-username/neurosearch.git](https://github.com/manucian-official/NeuroSearch-Hybrid-Chess-Intelligence-System/tree/main)
 cd neurosearch
 </pre>
 
