@@ -115,7 +115,7 @@ class HybridSearch:
         _, value = self.nn.evaluate(board)
 
         # Combine
-        nn_score = value * 1000
+        nn_score = value * 10000
         return int(0.7 * h_score + 0.3 * nn_score)
 
     # ===============================
